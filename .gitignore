@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Selenium / downloads
+*.log
+
+anotacoes.txt
