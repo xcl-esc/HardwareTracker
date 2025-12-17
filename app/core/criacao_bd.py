@@ -11,7 +11,6 @@ class ProdutoRaw:
         self.data_registro = datetime.now(timezone.utc).isoformat() 
 
     def registro_json(self) -> dict:
-        #saber qual é a fita sobre essa setinha, se tem função real ou simplesmente estetica
         return {
             "fonte": self.fonte,
             "categoria": self.categoria,
