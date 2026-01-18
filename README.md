@@ -1,4 +1,4 @@
-# Monitoramento de Preços - Memórias RAM
+# Monitoramento de Preços - Memórias RAM (Em andamento)
 
 Projeto pessoal utilizando scraping, organização de dados e testes,
 utilizando Selenium, Pytest e arquitetura orientada a objetos.
